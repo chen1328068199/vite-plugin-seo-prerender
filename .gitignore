@@ -1,0 +1,16 @@
+build/
+lib/
+docs/site/
+
+dist/
+
+node_modules/
+debug.log
+npm-debug.log
+tsconfig.tsbuildinfo
+tsconfig.commonjs.tsbuildinfo
+
+*.sublime-workspace
+.idea
+
+.DS_Store
